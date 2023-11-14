@@ -12,4 +12,4 @@ source $HOME/.config/nvim/plug-config/coc.vim
 "Setup mapping
 source $HOME/.config/nvim/keymapping.vim
 
-colorscheme blue
+colorscheme gruvbox
